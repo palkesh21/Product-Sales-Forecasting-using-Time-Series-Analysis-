@@ -37,6 +37,7 @@ Prophet is a procedure for forecasting time series data based on an additive mod
 
 ## Results:
 The analysis metrics used to compare the performance of above three models are RMSE, MSE, MAPE. The values of these metrics are obtained as below:
+
 Models	     RMSE Errors	MSE Errors	MAPE Errors
 ARIMA	       8.127305	    66.053093	  5.726577
 HOLT WINTER	 12.781636	  163.370221	6.795875
