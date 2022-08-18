@@ -2,9 +2,10 @@
 # PRODUCT-SALES-FORECASTING-USING-TIME-SERIES-ANALYSIS-
 
 ## Brief Summary
-1.	Performed data decomposition to observe seasonality, and trend in data on shampoo bottles from kaggle’s data warehouse
-2.	Implemented Seasonal ARIMA, Holts winter, and Prophet models on product sales dataset for forecasting of future sales
-3.	Observed SARIMA to yield best performance among others with least RMSE of 8  & MAPE of 6 units error respectively 
+•Conducted ADFuller test for data stationarity, performed Data Decomposition to observe level, trend, seasonality & residue
+•Implemented Seasonal ARIMA, Holt’s winter, and Prophet models on product sales dataset for Forecasting future sales    
+•Observed SARIMA to yield the best performance among others with least RMSE of 8 & MAPE of 6 % errors respectively 
+
 
 ## Introduction 
 Time Series Analysis is the most widely used field of data science and machine learning, it decomposes the past historical data to depict the trend, seasonality, and noise to derive the future trends from it. It’s a type of predictive analysis that forecasts the value of a variable in future occurrences based on history. The predicted values can be influenced by certain external factors which are known as independent variables like in the case of sale of a product is influenced by the discount percentage on its prices or the temperature on a particular day is influenced by the humidity or wind speed etc.
