@@ -1,5 +1,5 @@
 # Product-Sales-Forecasting-using-Time-Series-Analysis-
-# PRODUCT-SALES-FORECASTING-USING-TIME-SERIES-ANALYSIS-
+
 
 ## Brief Summary
 •Conducted ADFuller test for data stationarity, performed Data Decomposition to observe level, trend, seasonality & residue
